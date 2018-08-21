@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e71d9da99998d64a904d5ea45d5ae7a
+timeCreated: 1529878941
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - patientSet: {fileID: 11400000, guid: 07f3266dbdf78e444b1f62a7e5a4a3ce, type: 2}
+  - _profile: {fileID: 11400000, guid: 1a5378c0bca1b5541966f50e9b4e7fb9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

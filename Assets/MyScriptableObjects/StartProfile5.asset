@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35de1dcb197e08f448847f4459d9a61d, type: 3}
+  m_Name: StartProfile5
+  m_EditorClassIdentifier: 
+  set: {fileID: 11400000, guid: 324863f383a9f5346b509f1a562fd171, type: 2}
+  _population: {fileID: 11400000, guid: e8b41e1d88148ce4ebb56d4b12899f0d, type: 2}
+  startLife: 639
+  startCondition: 0.861
+  startResilience: 0.493
+  startLifeLimit: 695
+  _life: 618.55096
+  _lifeLimit: 740
+  _condition: 0.5749998
+  _conditionDecayRate: -0.022
+  _resilience: 0.493
+  _risk: 0.896
+  _isCured: 0
+  _isDead: 0
+  _isCritical: 0

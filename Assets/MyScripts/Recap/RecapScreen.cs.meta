@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cd9eb741693377b41b6e96f106f3e26e
+timeCreated: 1529880756
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - populationManager: {fileID: 11400000, guid: a4e0de4be4e6ed641a5901d1b9dbab6c,
+      type: 2}
+  - recapPanel: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - recapTextPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

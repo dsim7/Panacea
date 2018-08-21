@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9d29393fc822fb42a66494e8e4b98ca, type: 3}
+  m_Name: Soldier
+  m_EditorClassIdentifier: 
+  _populationStrength: 0.8
+  _dailyDecayAmount: 0.05
+  _strengthDeviation: 0.25
+  _successThresholdVeryBad: 0.2
+  _successThresholdBad: 0.4
+  _successThresholdGood: 0.8
+  eventDescriptions:
+  - "Radioactive creatures dug tunnels under our walls and attacked the camp from
+    within.\r"
+  - Test subjects in the science containments managed to break free and rampaged through
+    the camp.
+  - "Raiders from an enemy camp attacked with superior fire power and vehicles.\r"
+  - "Under cover of darkness, a group of enemy spies infiltrated our camp and attacked.\r"
+  - "Enemy soldiers besieged the camp with explosives and heavy weapons.\r"
+  - "A herd of radioactive creatures attacked the camp walls.\r"
+  successDescriptions:
+  - "Our defenses were overwhelmed and we suffered significant damage before the attackers
+    were pushed back.\r"
+  - "The attack caused major damage, but our soldiers eventually managed to push the
+    invaders back.\r"
+  - "Our soldiers and defenses held fast, though minor injuries were sustained in
+    the attack.\r"
+  - "Our soldiers' solidarity held the line and repelled the invaders before they
+    did any significant damage.\r"
+  profiles: {fileID: 11400000, guid: 324863f383a9f5346b509f1a562fd171, type: 2}
+  populationManager: {fileID: 11400000, guid: a4e0de4be4e6ed641a5901d1b9dbab6c, type: 2}

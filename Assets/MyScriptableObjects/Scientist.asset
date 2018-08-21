@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea93ebc002e5384f84c3fa1f5605d66, type: 3}
+  m_Name: Scientist
+  m_EditorClassIdentifier: 
+  _populationStrength: 0.39999992
+  _dailyDecayAmount: 0.05
+  _strengthDeviation: 0.25
+  _successThresholdVeryBad: 0.2
+  _successThresholdBad: 0.4
+  _successThresholdGood: 0.8
+  eventDescriptions:
+  - Our scientists reported on their status.
+  successDescriptions:
+  - The science facilities are unmaintained and have become a danger to the camp.
+  - Very little progress has been made on research and development.
+  - Some progress has been made on research and development.
+  - The scientists and engineers have made significant progress.
+  basicHeal: {fileID: 11400000, guid: 2b7085ee5b3041541beaef877f8b5ca6, type: 2}
+  progress: 2

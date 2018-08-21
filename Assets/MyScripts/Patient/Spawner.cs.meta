@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56f762b2c181e054fb7e7b09a34cde71
+timeCreated: 1529207630
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - patientPrefab: {fileID: 4562787157654456, guid: 27c536dcef698084eb66404163ca03d8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
