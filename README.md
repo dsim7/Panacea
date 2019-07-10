@@ -1,7 +1,7 @@
 # Panacea
-Unity game made for practice.
-
 You are the doctor in charge of a camp in a post apocalyptic world at war. You job is to bring your patients back to health, or at least prevent as many from dying as possible.
+
+This was a learning project for Unity3D as well as a prototype for a game idea.
 
 # Instructions
 Double click on a patient to start tending to their injuries. Tending a patient repeatedly makes it more effective.
